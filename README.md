@@ -37,4 +37,5 @@ ssh-rover
 
 ## License
 
-MIT
+GPL-3
+
