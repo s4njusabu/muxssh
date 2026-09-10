@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "A terminal user interface (TUI) for discovering hosts on a local network and connecting to them over SSH."
 license = "GPL-3.0"
-repository = "https://github.com/s4njusabu/ssh-rover"
+repository = "https://github.com/s4njusabu/muxssh"
 
 [dependencies]
 ipnet = "2.12.0"
